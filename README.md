@@ -27,6 +27,7 @@ I am a passionate **Flutter Developer** based in the **Philippines**. I focus on
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 **Backend & Services:**
 <br>
@@ -38,7 +39,6 @@ I am a passionate **Flutter Developer** based in the **Philippines**. I focus on
 <br>
 <img src="https://img.shields.io/badge/Provider-black?style=flat-square&logo=flutter" />
 <img src="https://img.shields.io/badge/Riverpod-black?style=flat-square&logo=flutter" />
-<img src="https://img.shields.io/badge/MVC/MVVM-black?style=flat-square" />
 
 **Tools & Design:**
 <br>
@@ -46,17 +46,6 @@ I am a passionate **Flutter Developer** based in the **Philippines**. I focus on
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rauldandizon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauldandizon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-</div>
 
 ---
 
